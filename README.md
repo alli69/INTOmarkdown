@@ -20,6 +20,12 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
+GNU license -> filezilla -> filezilla.org -> https://svn.filezilla-project.org/svn/FileZilla3/trunk filezilla
+GNU license -> nano -> www.nano-editor.org/disk/v2.2/nano-2.2.6.tar.gz
+GNU licene -> vim -> www.vim.org -> ftp://ftp.vim.org/pub/vim/unix/vim-7.4.tar.bz2
+
+
+
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
